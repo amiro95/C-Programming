@@ -1,0 +1,14 @@
+server.c contains:
+1. sethostname function
+2. getsockname function
+3. getpeername function
+
+client.c contains:
+1. gethostname function
+2. getsockname function
+3. getpeername function
+4. gethostbyname function
+5. gethostbyaddr function
+6. getservbyname function
+7. getservbyport function
+
